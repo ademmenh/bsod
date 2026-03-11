@@ -49,5 +49,5 @@ terminal-border: "0"
   align = "center"
   text = "↑/↓ - NAVIGATE     C - COMMAND     ↲ - CONFIRM"
   color = "#cccccc"
-  font = "Victor Mono Bold Italic 20"
+  font = "Victor Mono Bold Italic 24"
 }
