@@ -2,7 +2,7 @@
 
 GRUB2 theme inspired by the iconic Windows "Blue Screen of Death" (BSOD) aesthetic.
 
-![Preview](.github/preview.png)
+![Preview](preview.png)
 
 ## Installation
 
