@@ -1,6 +1,6 @@
 # bsol GRUB Theme Makefile
 
-THEME_NAME = bsol
+THEME_NAME = blue-screen
 THEME_DIR = /boot/grub2/themes
 GRUB_CONFIG = /boot/grub2/grub.cfg
 MKCONFIG = grub2-mkconfig

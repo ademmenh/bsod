@@ -39,3 +39,15 @@ terminal-border: "0"
   color = "#cccccc"
   font = "Victor Mono Bold Italic 28"
 }
+
+
+# Navigation keys hint 
++ label {
+  left = 0
+  top = 90%-5
+  width = 100%
+  align = "center"
+  text = "↑/↓ - NAVIGATE     C - COMMAND     ↲ - CONFIRM"
+  color = "#cccccc"
+  font = "Victor Mono Bold Italic 20"
+}
