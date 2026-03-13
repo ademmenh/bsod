@@ -39,6 +39,30 @@ sudo make debian
 sudo make arch
 ```
 
+### Custom Resolution
+
+By default, the theme uses `1920x1080`. You can specify a custom resolution during installation:
+
+```bash
+sudo make install RESOLUTION=1920x1200
+```
+
+## Preview and Testing
+
+You can preview the theme in a QEMU virtual machine before applying it to your system.
+
+### Install Development Dependencies
+
+```bash
+make dev-deps
+```
+
+### Run Preview
+
+```bash
+make test
+```
+
 ## Uninstallation
 
 To remove the theme and revert to the default GRUB appearance:
@@ -53,6 +77,10 @@ sudo make uninstall
 - **Fonts**: Victor Mono (Italic and Bold Italic)
 - **Background**: 1920x1080 PNG
 - **Icons**: Located in `blue-screen/icons/`
+
+## Credits
+
+This theme is based on the original [bsol](https://github.com/harishnkr/bsol) theme by @harishnkr.
 
 ## License
 
